@@ -1,2 +1,2 @@
-language = "undefined"
-run = ""
+language = "rust"
+run = "cargo run"
