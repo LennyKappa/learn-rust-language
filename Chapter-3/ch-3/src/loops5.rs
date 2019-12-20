@@ -1,6 +1,7 @@
 pub fn run(){
 
   // Take in input
+  print!("Enter a number:  ");
 
   let mut input = String::new();
 
