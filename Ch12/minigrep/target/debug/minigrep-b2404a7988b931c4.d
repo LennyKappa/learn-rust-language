@@ -1,0 +1,1 @@
+/home/lennykappa/Desktop/Books/the-rust-language/learn-rust-language/Ch12/minigrep/target/debug/minigrep-b2404a7988b931c4: /home/lennykappa/Desktop/Books/the-rust-language/learn-rust-language/Ch12/minigrep/src/lib.rs
