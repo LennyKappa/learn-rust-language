@@ -1,0 +1,1 @@
+/home/lennykappa/Desktop/Books/the-rust-language/learn-rust-language/Ch-20/hello/target/debug/hello-ff4825b3cee4c8e0: /home/lennykappa/Desktop/Books/the-rust-language/learn-rust-language/Ch-20/hello/src/lib.rs
